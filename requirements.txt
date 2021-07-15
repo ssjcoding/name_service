@@ -1,0 +1,5 @@
+pyhanlp==0.1.66
+jieba==0.42.1
+xmnlp==0.3.1
+pandas==1.2.3
+ngram==3.3.2
